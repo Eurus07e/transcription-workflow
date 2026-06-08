@@ -2,11 +2,10 @@
 
 这是南京大学大一英语听说课程教材：智汇大学英语听说教程 4 的部分视频转写、中文校对翻译和中英对照 LaTeX/PDF 输出工作流。
 
-这个仓库只保存有复用价值的内容：最终文稿、LaTeX 源文件、原始转写文本和转录/排版脚本。
+仓库只保存有复用价值的内容：最终文稿、LaTeX 源文件、原始转写文本和转录/排版脚本。
 
 ## 主要文件
 
-- `welearn_文稿.pdf`：最终整理版 PDF。
 - `transcripts/welearn_theme2_bilingual_reviewed.pdf`：LaTeX 生成的最终中英对照 PDF。
 - `transcripts/welearn_theme2_bilingual_reviewed.tex`：最终整理版 LaTeX 源文件。
 - `transcripts/raw/`：Whisper 转写得到的 `.txt`、`.srt`、`.vtt`、`.tsv`、`.json` 原始结果。
