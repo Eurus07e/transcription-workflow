@@ -1,0 +1,41 @@
+So how did this happen?
+Why am I sitting in front of a computer in a white mass
+trying to be detected by a cheap webcam?
+Well, when I'm not fighting the coded gaze as a poet of code,
+I'm a graduate student at the MIT Media Lab.
+And there I have the opportunity to work
+on all sorts of whimsical projects,
+including the Aspire Mirror, a project I did
+so I could project digital masks onto my reflection
+so in the morning, if I wanted to feel powerful,
+I could put on a lion.
+If I wanted to be uplifted, I might have a quote.
+So I used generic facial recognition software
+to build the system, but found that it was really hard
+to test it unless if I wore a white mask.
+Unfortunately, I've run into this issue before.
+When I was an undergraduate at Georgia Tech studying
+computer science, I used to work on social robots.
+And one of my tasks was to get a robot to play peek-a-boo,
+a simple turn-taking game where partners covered their face
+and then uncover it saying peek-a-boo.
+The problem is peek-a-boo doesn't really work
+if I can't see you, and my robot couldn't see me.
+But I barred my roommate's face to get the project done,
+submitted the assignment, and figured, you know what?
+Somebody else will solve this problem.
+Not too long after, I was in Hong Kong
+for an entrepreneurship competition.
+The organizers decided to take participants
+on a tour of local startups.
+One of the startups had a social robot,
+and they decided to do a demo.
+The demo worked on everybody until it got to me,
+and you can probably guess it.
+It couldn't detect my face.
+I asked the developers what was going on,
+and it turned out we had used the same generic facial
+recognition software.
+Halfway around the world, I learned
+that algorithmic bias can travel as quickly
+as it takes to download some files off of the internet.

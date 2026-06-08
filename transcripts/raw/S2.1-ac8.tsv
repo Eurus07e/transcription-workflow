@@ -1,0 +1,79 @@
+start	end	text
+0	4400	So what if there were not only an internet of information,
+4400	7360	what if there were an internet of value?
+7360	11560	Some kind of vast, global, distributed ledger
+11560	15880	running on millions of computers and available to everybody,
+15880	19720	and where every kind of asset, from money to music,
+19720	25440	could be stored, moved, transacted, exchanged and managed,
+25440	28400	all without powerful intermediaries.
+28520	33280	What if there were a native medium for value?
+33280	37960	Well, in 2008, the financial industry crashed,
+37960	43640	and perhaps propitiously, an anonymous person or persons
+43640	47760	named Satoshi Nakamoto created a paper
+47760	53560	where he developed a protocol for a digital cash that
+53560	57440	used an underlying cryptocurrency called Bitcoin.
+57440	61680	And this cryptocurrency enabled people to establish trust
+61680	65000	and do transactions without a third party.
+65000	67480	And the seemingly simple act set off
+67480	71480	a spark that's ignited the world, that
+71480	75400	has everyone excited or terrified or otherwise
+75400	77680	interested in many places.
+77680	79640	Now don't be confused about Bitcoin.
+79640	81200	Bitcoin is an asset.
+81200	83000	It goes up and down.
+83000	86520	And that should be of interest to you if you're a speculator.
+86520	88840	More broadly, it's a cryptocurrency.
+88840	92360	It's not a fiat currency controlled by a nation's state.
+92360	94320	And that's of greater interest.
+94320	97560	But the real pony here is the underlying technology.
+97560	100640	It's called blockchain.
+100640	104080	So for the first time now in human history,
+104080	107760	people everywhere can trust each other and transact,
+107760	110000	peer to peer.
+110000	114280	And trust is established not by some big institution,
+114280	117320	but by collaboration, by cryptography,
+117320	119480	and by some clever code.
+119480	123080	And because trust is native to the technology,
+123080	125680	I call this the trust protocol.
+125680	127100	Now you're probably wondering, well,
+127100	128640	how does this thing work?
+128640	131280	Fair enough.
+131280	135160	Assets, digital assets like money to music and everything
+135160	138040	in between, are not stored in a central place.
+138040	140840	But they're distributed across a global ledger
+140840	143960	using the highest level of cryptography.
+143960	146600	And when a transaction is conducted,
+146600	150380	it's posted globally across millions and millions
+150380	152480	of computers.
+152480	154840	And out there around the world is a group
+154840	156640	of people called miners.
+156640	157760	These are not young people.
+157760	160200	They're Bitcoin miners.
+160200	163240	And they have massive computing power at their fingertips,
+163240	168600	10 to 100 times bigger than all of Google worldwide.
+168600	171120	And these miners do a lot of work.
+171120	173760	And every 10 minutes, kind of like the heartbeat
+173840	177080	of a network, a block gets created
+177080	180720	that has all the transactions from the previous 10 minutes.
+180720	182760	And then the miners get to work trying
+182760	185880	to solve some tough problems.
+185880	187240	And they compete.
+187240	189720	And the first miner to find out the truth
+189720	193800	and to validate the block is rewarded in digital currency,
+193800	197160	in the case of the Bitcoin blockchain with Bitcoin.
+197160	200200	And then, this is the key part, that block
+200200	203120	is linked to the previous block and the previous block
+203120	206480	to create a chain of blocks.
+206480	208280	And everyone is time stamped, kind of like
+208280	210440	with a digital wax seal.
+210440	212880	So if I wanted to go in and hack a block
+212880	217440	and say, pay you and you with the same money,
+217440	219960	I'd have to hack that block, plus all the preceding
+219960	223800	blocks, the entire history of commerce on that blockchain,
+223800	227360	not just on one computer, but across millions of computers,
+227360	232520	simultaneously, all using the highest levels of encryption
+232520	234440	in the light of the most powerful computing
+234440	238560	resource in the world that's watching me, tough to do.
+238560	241440	And this is infinitely more secure than the computer
+241440	243120	systems that we have today.
+243120	246600	Blockchain, that's how it works.

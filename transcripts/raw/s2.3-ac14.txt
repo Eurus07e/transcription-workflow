@@ -1,0 +1,45 @@
+Do you use any navigation application to go through traffic jams?
+What happens when you scroll down through your social media feed?
+Do you follow any recommendation that any streaming service might give you?
+So by the end of the day, we know that AI is there, but do we actually understand what
+is going on, and can we trust the output of those applications?
+To date, the approach that we've taken to these kinds of technologies is to say, well,
+consumers can figure this out on their own.
+They can read the terms and conditions on websites.
+They can choose not to participate in certain digital environments, but increasingly, these
+products and platforms are part of our lives.
+They are part of the way that we provide education.
+They are part of the way that we look for jobs.
+And that power imbalance cannot be addressed by simply giving consumers more information
+or giving them individual rights of complaint.
+What we're ultimately going to have to do if we're going to change the kind of structural
+ways in which these technologies are designed is to push the responsibilities back on our
+designers, back on the organizations who are relying on technologies to change their practices.
+Technologies like artificial intelligence have the potential to empower people and to
+broaden their perspectives, or they can widen inequalities and really don't contribute to
+address our societal challenges.
+But we cannot blame the technologies.
+It's not about the technologies.
+It's about us developing the framework, shaping the rules that will allow these technologies
+to deliver to what we want them to achieve.
+And we need to make sure that we embed those very important ethical principles, the protection
+and promotion of human rights and human dignity that will at the end determine the outcomes.
+Responsible governance of AI technologies without the buy-in of Big Tech and other companies
+is impossible.
+It is necessary for us to find ways in which to explain to them that ethics is not about
+abstract principles.
+Ethics should be bottom up.
+It is a dynamic system.
+It should enable innovation and in the end lead to trust in products of these companies
+which would lead to success in terms of whatever their business aims are.
+We see how ethical debates end up playing an important role in shaping the conversation
+of AI regulation over the last five years.
+We saw a plethora of charters, declarations of AI ethical principles.
+We are seeing right now that those principles are being applied on a very practical basis.
+A lot of countries in Latin America have already come up with their national strategies on artificial intelligence.
+But some countries in the region are going a step further.
+They are actually regulating through hard law some of the principles of artificial intelligence.
+In the European Union, we're looking at draft AI acts.
+In the US, Congress is starting to talk in great detail about monopoly power of technology companies.
+And you can see the wheels turning across the world as countries move from awareness-raising
+to strategy, to attempts at implementation, attempts at regulation.

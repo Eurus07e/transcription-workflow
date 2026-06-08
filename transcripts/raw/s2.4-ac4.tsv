@@ -1,0 +1,42 @@
+start	end	text
+0	2360	So how did this happen?
+2360	7040	Why am I sitting in front of a computer in a white mass
+7040	10720	trying to be detected by a cheap webcam?
+10720	14600	Well, when I'm not fighting the coded gaze as a poet of code,
+14600	17840	I'm a graduate student at the MIT Media Lab.
+17840	20480	And there I have the opportunity to work
+20480	22840	on all sorts of whimsical projects,
+22840	26080	including the Aspire Mirror, a project I did
+26080	29920	so I could project digital masks onto my reflection
+29920	32240	so in the morning, if I wanted to feel powerful,
+32240	33760	I could put on a lion.
+33760	37320	If I wanted to be uplifted, I might have a quote.
+37320	40320	So I used generic facial recognition software
+40320	43440	to build the system, but found that it was really hard
+43440	47840	to test it unless if I wore a white mask.
+47840	52200	Unfortunately, I've run into this issue before.
+52200	55160	When I was an undergraduate at Georgia Tech studying
+55160	58640	computer science, I used to work on social robots.
+58640	62360	And one of my tasks was to get a robot to play peek-a-boo,
+62360	66040	a simple turn-taking game where partners covered their face
+66040	68480	and then uncover it saying peek-a-boo.
+68480	71360	The problem is peek-a-boo doesn't really work
+71360	75400	if I can't see you, and my robot couldn't see me.
+75400	79440	But I barred my roommate's face to get the project done,
+79440	81960	submitted the assignment, and figured, you know what?
+81960	85240	Somebody else will solve this problem.
+85240	88480	Not too long after, I was in Hong Kong
+88480	91920	for an entrepreneurship competition.
+91920	94640	The organizers decided to take participants
+94640	96960	on a tour of local startups.
+96960	99720	One of the startups had a social robot,
+99720	101680	and they decided to do a demo.
+101680	104640	The demo worked on everybody until it got to me,
+104640	106680	and you can probably guess it.
+106680	109640	It couldn't detect my face.
+109640	112040	I asked the developers what was going on,
+112040	115640	and it turned out we had used the same generic facial
+115640	117720	recognition software.
+117720	119720	Halfway around the world, I learned
+119720	123280	that algorithmic bias can travel as quickly
+123280	127400	as it takes to download some files off of the internet.

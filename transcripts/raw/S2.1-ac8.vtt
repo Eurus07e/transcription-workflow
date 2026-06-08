@@ -1,0 +1,236 @@
+WEBVTT
+
+00:00.000 --> 00:04.400
+So what if there were not only an internet of information,
+
+00:04.400 --> 00:07.360
+what if there were an internet of value?
+
+00:07.360 --> 00:11.560
+Some kind of vast, global, distributed ledger
+
+00:11.560 --> 00:15.880
+running on millions of computers and available to everybody,
+
+00:15.880 --> 00:19.720
+and where every kind of asset, from money to music,
+
+00:19.720 --> 00:25.440
+could be stored, moved, transacted, exchanged and managed,
+
+00:25.440 --> 00:28.400
+all without powerful intermediaries.
+
+00:28.520 --> 00:33.280
+What if there were a native medium for value?
+
+00:33.280 --> 00:37.960
+Well, in 2008, the financial industry crashed,
+
+00:37.960 --> 00:43.640
+and perhaps propitiously, an anonymous person or persons
+
+00:43.640 --> 00:47.760
+named Satoshi Nakamoto created a paper
+
+00:47.760 --> 00:53.560
+where he developed a protocol for a digital cash that
+
+00:53.560 --> 00:57.440
+used an underlying cryptocurrency called Bitcoin.
+
+00:57.440 --> 01:01.680
+And this cryptocurrency enabled people to establish trust
+
+01:01.680 --> 01:05.000
+and do transactions without a third party.
+
+01:05.000 --> 01:07.480
+And the seemingly simple act set off
+
+01:07.480 --> 01:11.480
+a spark that's ignited the world, that
+
+01:11.480 --> 01:15.400
+has everyone excited or terrified or otherwise
+
+01:15.400 --> 01:17.680
+interested in many places.
+
+01:17.680 --> 01:19.640
+Now don't be confused about Bitcoin.
+
+01:19.640 --> 01:21.200
+Bitcoin is an asset.
+
+01:21.200 --> 01:23.000
+It goes up and down.
+
+01:23.000 --> 01:26.520
+And that should be of interest to you if you're a speculator.
+
+01:26.520 --> 01:28.840
+More broadly, it's a cryptocurrency.
+
+01:28.840 --> 01:32.360
+It's not a fiat currency controlled by a nation's state.
+
+01:32.360 --> 01:34.320
+And that's of greater interest.
+
+01:34.320 --> 01:37.560
+But the real pony here is the underlying technology.
+
+01:37.560 --> 01:40.640
+It's called blockchain.
+
+01:40.640 --> 01:44.080
+So for the first time now in human history,
+
+01:44.080 --> 01:47.760
+people everywhere can trust each other and transact,
+
+01:47.760 --> 01:50.000
+peer to peer.
+
+01:50.000 --> 01:54.280
+And trust is established not by some big institution,
+
+01:54.280 --> 01:57.320
+but by collaboration, by cryptography,
+
+01:57.320 --> 01:59.480
+and by some clever code.
+
+01:59.480 --> 02:03.080
+And because trust is native to the technology,
+
+02:03.080 --> 02:05.680
+I call this the trust protocol.
+
+02:05.680 --> 02:07.100
+Now you're probably wondering, well,
+
+02:07.100 --> 02:08.640
+how does this thing work?
+
+02:08.640 --> 02:11.280
+Fair enough.
+
+02:11.280 --> 02:15.160
+Assets, digital assets like money to music and everything
+
+02:15.160 --> 02:18.040
+in between, are not stored in a central place.
+
+02:18.040 --> 02:20.840
+But they're distributed across a global ledger
+
+02:20.840 --> 02:23.960
+using the highest level of cryptography.
+
+02:23.960 --> 02:26.600
+And when a transaction is conducted,
+
+02:26.600 --> 02:30.380
+it's posted globally across millions and millions
+
+02:30.380 --> 02:32.480
+of computers.
+
+02:32.480 --> 02:34.840
+And out there around the world is a group
+
+02:34.840 --> 02:36.640
+of people called miners.
+
+02:36.640 --> 02:37.760
+These are not young people.
+
+02:37.760 --> 02:40.200
+They're Bitcoin miners.
+
+02:40.200 --> 02:43.240
+And they have massive computing power at their fingertips,
+
+02:43.240 --> 02:48.600
+10 to 100 times bigger than all of Google worldwide.
+
+02:48.600 --> 02:51.120
+And these miners do a lot of work.
+
+02:51.120 --> 02:53.760
+And every 10 minutes, kind of like the heartbeat
+
+02:53.840 --> 02:57.080
+of a network, a block gets created
+
+02:57.080 --> 03:00.720
+that has all the transactions from the previous 10 minutes.
+
+03:00.720 --> 03:02.760
+And then the miners get to work trying
+
+03:02.760 --> 03:05.880
+to solve some tough problems.
+
+03:05.880 --> 03:07.240
+And they compete.
+
+03:07.240 --> 03:09.720
+And the first miner to find out the truth
+
+03:09.720 --> 03:13.800
+and to validate the block is rewarded in digital currency,
+
+03:13.800 --> 03:17.160
+in the case of the Bitcoin blockchain with Bitcoin.
+
+03:17.160 --> 03:20.200
+And then, this is the key part, that block
+
+03:20.200 --> 03:23.120
+is linked to the previous block and the previous block
+
+03:23.120 --> 03:26.480
+to create a chain of blocks.
+
+03:26.480 --> 03:28.280
+And everyone is time stamped, kind of like
+
+03:28.280 --> 03:30.440
+with a digital wax seal.
+
+03:30.440 --> 03:32.880
+So if I wanted to go in and hack a block
+
+03:32.880 --> 03:37.440
+and say, pay you and you with the same money,
+
+03:37.440 --> 03:39.960
+I'd have to hack that block, plus all the preceding
+
+03:39.960 --> 03:43.800
+blocks, the entire history of commerce on that blockchain,
+
+03:43.800 --> 03:47.360
+not just on one computer, but across millions of computers,
+
+03:47.360 --> 03:52.520
+simultaneously, all using the highest levels of encryption
+
+03:52.520 --> 03:54.440
+in the light of the most powerful computing
+
+03:54.440 --> 03:58.560
+resource in the world that's watching me, tough to do.
+
+03:58.560 --> 04:01.440
+And this is infinitely more secure than the computer
+
+04:01.440 --> 04:03.120
+systems that we have today.
+
+04:03.120 --> 04:06.600
+Blockchain, that's how it works.
+

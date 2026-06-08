@@ -1,0 +1,33 @@
+This is a thought experiment.
+Let's say at some point in the not-so-distant future
+you're barreling down the highway in your self-driving car,
+and you find yourself boxed in on all sides by other cars.
+Suddenly, a large, heavy object falls off the truck in front of you.
+Your car can't stop in time to avoid the collision,
+so it needs to make a decision.
+Go straight and hit the object,
+swerve left into an SUV,
+or swerve right into a motorcycle.
+Should it prioritize your safety by hitting the motorcycle?
+Minimize danger to others by not swerving,
+even if it means hitting the large object and sacrificing your life.
+Or take the middle ground by hitting the SUV,
+which has a high passenger safety rating.
+So what should the self-driving car do?
+If we were driving that boxed-in car in manual mode,
+whichever way we'd react would be understood as just that,
+a reaction, not a deliberate decision.
+It would be an instinctual panicked move with no forethought or malice.
+But if a programmer were to instruct the car to make the same move,
+given conditions it may sense in the future,
+well, that looks more like premeditated homicide.
+Now, to be fair, self-driving cars are predicted
+to dramatically reduce traffic accidents and fatalities
+by removing human error from the driving equation.
+Plus, there may be all sorts of other benefits—
+eased road congestion, decreased harmful emissions,
+and minimized unproductive and stressful driving time.
+But accidents can and will still happen,
+and when they do,
+their outcomes may be determined months or years in advance
+by programmers or policymakers.

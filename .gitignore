@@ -1,0 +1,31 @@
+# macOS and editor noise
+.DS_Store
+
+# Build and cache artifacts
+.build/
+.swift-module-cache/
+.whisper-cache/
+__pycache__/
+*.py[cod]
+
+# Large source media and derived audio
+*.mp4
+*.wav
+transcripts/audio/
+
+# LaTeX intermediates
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Empty scratch output directories
+transcripts/bilingual/
+
+# Local legacy drafts and screenshots not part of the reusable workflow
+transcripts/welearn_theme2_bilingual.pdf
+transcripts/welearn_theme2_bilingual.tex
+{CE4A1AAD-7156-11C5-049E-A436D11AEEB7}.png

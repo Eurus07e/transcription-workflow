@@ -1,0 +1,444 @@
+1
+00:00:00,000 --> 00:00:02,520
+We're at a tipping point in human history,
+
+2
+00:00:02,520 --> 00:00:05,960
+a species poised between gaining the stars
+
+3
+00:00:05,960 --> 00:00:08,440
+and losing the planet we call home.
+
+4
+00:00:08,440 --> 00:00:10,080
+Even in just the past few years,
+
+5
+00:00:10,080 --> 00:00:13,280
+we've greatly expanded our knowledge of how Earth fits
+
+6
+00:00:13,280 --> 00:00:15,680
+within the context of our universe.
+
+7
+00:00:15,680 --> 00:00:18,480
+NASA's Kepler mission has discovered thousands
+
+8
+00:00:18,480 --> 00:00:21,000
+of potential planets around other stars,
+
+9
+00:00:21,000 --> 00:00:23,280
+indicating that Earth is but one of billions
+
+10
+00:00:23,280 --> 00:00:25,600
+of planets in our galaxy.
+
+11
+00:00:25,600 --> 00:00:28,040
+Kepler's a space telescope that measures
+
+12
+00:00:28,040 --> 00:00:31,440
+the subtle dimming of stars as planets pass in front of them,
+
+13
+00:00:31,440 --> 00:00:34,720
+blocking just a little bit of that light from reaching us.
+
+14
+00:00:34,720 --> 00:00:37,320
+Kepler's data reveals planets sizes,
+
+15
+00:00:37,320 --> 00:00:40,000
+as well as their distance from their parent star.
+
+16
+00:00:40,000 --> 00:00:41,600
+Together, this helps us understand
+
+17
+00:00:41,600 --> 00:00:44,080
+whether these planets are small and rocky,
+
+18
+00:00:44,080 --> 00:00:46,800
+like the terrestrial planets in our own solar system,
+
+19
+00:00:46,800 --> 00:00:50,080
+and also how much light they receive from their parent sun.
+
+20
+00:00:50,080 --> 00:00:53,080
+In turn, this provides clues as to whether these planets
+
+21
+00:00:53,080 --> 00:00:56,680
+that we discover might be habitable or not.
+
+22
+00:00:56,680 --> 00:00:59,680
+Unfortunately, at the same time as we're discovering
+
+23
+00:00:59,680 --> 00:01:02,720
+this treasure trove of potentially habitable worlds,
+
+24
+00:01:02,720 --> 00:01:06,000
+our own planet is sagging under the weight of humanity.
+
+25
+00:01:06,000 --> 00:01:10,320
+2014 was the hottest year on record.
+
+26
+00:01:10,320 --> 00:01:13,760
+Glaciers and sea ice that have been with us for millennia
+
+27
+00:01:13,760 --> 00:01:17,200
+are now disappearing in a matter of decades.
+
+28
+00:01:17,200 --> 00:01:19,840
+These planetary-scale environmental changes
+
+29
+00:01:19,840 --> 00:01:21,840
+that we have set in motion
+
+30
+00:01:21,840 --> 00:01:26,200
+are rapidly outpacing our ability to alter their course.
+
+31
+00:01:26,200 --> 00:01:29,920
+But I'm not a climate scientist. I'm an astronomer.
+
+32
+00:01:29,920 --> 00:01:33,440
+I study planetary habitability as influenced by stars
+
+33
+00:01:33,440 --> 00:01:35,680
+with the hopes of finding the places in the universe
+
+34
+00:01:35,680 --> 00:01:38,800
+where we might discover life beyond our own planet.
+
+35
+00:01:38,800 --> 00:01:42,800
+You could say that I look for choice-alien real estate.
+
+36
+00:01:42,800 --> 00:01:45,000
+Now, as somebody who is deeply embedded
+
+37
+00:01:45,000 --> 00:01:47,120
+in the search for life in the universe,
+
+38
+00:01:47,120 --> 00:01:50,720
+I can tell you that the more you look for planets like Earth,
+
+39
+00:01:50,720 --> 00:01:54,200
+the more you appreciate our own planet itself.
+
+40
+00:01:54,200 --> 00:01:56,880
+Each one of these new worlds invites a comparison
+
+41
+00:01:56,880 --> 00:02:00,480
+between the newly discovered planet and the planets we know best,
+
+42
+00:02:00,480 --> 00:02:02,520
+those of our own solar system.
+
+43
+00:02:02,520 --> 00:02:04,480
+Consider our neighbour, Mars.
+
+44
+00:02:04,480 --> 00:02:08,240
+Mars is small and rocky, and though it's a bit far from the sun,
+
+45
+00:02:08,240 --> 00:02:10,760
+it might be considered a potentially habitable world
+
+46
+00:02:10,760 --> 00:02:12,880
+if found by a mission like Kepler.
+
+47
+00:02:12,880 --> 00:02:16,320
+Indeed, it's possible that Mars was habitable in the past.
+
+48
+00:02:16,320 --> 00:02:19,600
+And in part, this is why we study Mars so much.
+
+49
+00:02:19,600 --> 00:02:22,920
+Our rovers, like Curiosity, crawl across its surface,
+
+50
+00:02:22,920 --> 00:02:26,360
+scratching for clues as to the origins of life as we know it.
+
+51
+00:02:26,360 --> 00:02:29,680
+Orbiters like the MAVEN mission sample the Martian atmosphere,
+
+52
+00:02:29,680 --> 00:02:33,600
+trying to understand how Mars might have lost its past habitability.
+
+53
+00:02:33,600 --> 00:02:36,000
+Private space flight companies now offer
+
+54
+00:02:36,000 --> 00:02:37,960
+not just a short trip to near space,
+
+55
+00:02:37,960 --> 00:02:42,160
+but the tantalizing possibility of living our lives on Mars.
+
+56
+00:02:42,160 --> 00:02:46,200
+But though these Martian vistas resemble the deserts of our own home world,
+
+57
+00:02:46,200 --> 00:02:48,240
+places that are tied in our imagination
+
+58
+00:02:48,240 --> 00:02:52,040
+to ideas about pioneering and frontiers,
+
+59
+00:02:52,040 --> 00:02:56,840
+compared to Earth, Mars is a pretty terrible place to live.
+
+60
+00:02:56,840 --> 00:03:00,040
+Consider the extent to which we have not colonized
+
+61
+00:03:00,040 --> 00:03:01,920
+the deserts of our own planet,
+
+62
+00:03:01,920 --> 00:03:04,880
+places that are lush by comparison with Mars.
+
+63
+00:03:04,880 --> 00:03:07,720
+Even in the driest, highest places on Earth,
+
+64
+00:03:07,720 --> 00:03:10,120
+the air is sweet and thick with oxygen,
+
+65
+00:03:10,120 --> 00:03:14,840
+exhaled from thousands of miles away by our rainforests.
+
+66
+00:03:14,840 --> 00:03:15,840
+I worry.
+
+67
+00:03:15,840 --> 00:03:20,800
+I worry that this excitement about colonizing Mars and other planets
+
+68
+00:03:20,800 --> 00:03:23,280
+carries with it a long, dark shadow,
+
+69
+00:03:23,280 --> 00:03:25,560
+the implication and belief by some
+
+70
+00:03:25,560 --> 00:03:28,960
+that Mars will be there to save us from the self-inflicted destruction
+
+71
+00:03:28,960 --> 00:03:33,120
+of the only truly habitable planet we know of, the Earth.
+
+72
+00:03:33,120 --> 00:03:35,400
+As much as I love interplanetary exploration,
+
+73
+00:03:35,400 --> 00:03:37,800
+I deeply disagree with this idea.
+
+74
+00:03:37,800 --> 00:03:40,440
+There are many excellent reasons to go to Mars,
+
+75
+00:03:40,440 --> 00:03:44,040
+but for anyone to tell you that Mars will be there to back up humanity
+
+76
+00:03:44,040 --> 00:03:45,680
+is like the captain of the Titanic
+
+77
+00:03:45,680 --> 00:03:49,000
+telling you that the real party is happening later on the lifeboats.
+
+78
+00:03:49,000 --> 00:03:51,000
+LAUGHTER
+
+79
+00:03:51,000 --> 00:03:55,000
+APPLAUSE
+
+80
+00:03:55,000 --> 00:03:56,000
+Thank you.
+
+81
+00:03:56,000 --> 00:03:58,000
+APPLAUSE
+
+82
+00:03:58,000 --> 00:04:02,080
+But the goals of interplanetary exploration and planetary preservation
+
+83
+00:04:02,080 --> 00:04:03,840
+are not opposed to one another.
+
+84
+00:04:03,840 --> 00:04:06,640
+No, they're in fact two sides of the same goal,
+
+85
+00:04:06,640 --> 00:04:10,800
+to understand, preserve and improve life into the future.
+
+86
+00:04:10,800 --> 00:04:14,880
+The extreme environments of our own world are alien vistas.
+
+87
+00:04:14,880 --> 00:04:16,840
+They're just closer to home.
+
+88
+00:04:16,840 --> 00:04:21,240
+If we can understand how to create and maintain habitable spaces
+
+89
+00:04:21,240 --> 00:04:24,520
+out of hostile, inhospitable spaces here on Earth,
+
+90
+00:04:24,520 --> 00:04:27,760
+perhaps we can meet the needs of both preserving our own environment
+
+91
+00:04:27,760 --> 00:04:30,000
+and moving beyond it.
+
+92
+00:04:30,000 --> 00:04:34,120
+I leave you with a final thought experiment, Fermi's Paradox.
+
+93
+00:04:34,120 --> 00:04:38,080
+Many years ago, the physicist Enrico Fermi asked that,
+
+94
+00:04:38,080 --> 00:04:41,760
+given the fact that our universe has been around for a very long time
+
+95
+00:04:41,760 --> 00:04:44,560
+and we expect that there are many planets within it,
+
+96
+00:04:44,560 --> 00:04:47,760
+we should have found evidence for alien life by now.
+
+97
+00:04:47,760 --> 00:04:49,560
+So where are they?
+
+98
+00:04:49,560 --> 00:04:53,000
+Well, one possible solution to Fermi's Paradox
+
+99
+00:04:53,000 --> 00:04:56,520
+is that as civilizations become technologically advanced enough
+
+100
+00:04:56,520 --> 00:04:58,920
+to consider living amongst the stars,
+
+101
+00:04:58,920 --> 00:05:01,400
+they lose sight of how important it is
+
+102
+00:05:01,400 --> 00:05:06,160
+to safeguard the home worlds that fostered that advancement to begin with.
+
+103
+00:05:06,160 --> 00:05:07,840
+It is hubris to believe
+
+104
+00:05:07,840 --> 00:05:11,960
+that interplanetary colonization alone will save us from ourselves,
+
+105
+00:05:11,960 --> 00:05:15,560
+but planetary preservation and interplanetary exploration
+
+106
+00:05:15,560 --> 00:05:17,520
+can work together.
+
+107
+00:05:17,520 --> 00:05:19,560
+If we truly believe in our ability
+
+108
+00:05:19,560 --> 00:05:23,160
+to bend the hostile environments of Mars for human habitation,
+
+109
+00:05:23,160 --> 00:05:26,120
+then we should be able to surmount the far easier task
+
+110
+00:05:26,120 --> 00:05:28,720
+of preserving the habitability of the Earth.
+
+111
+00:05:28,720 --> 00:05:30,000
+Thank you.
+

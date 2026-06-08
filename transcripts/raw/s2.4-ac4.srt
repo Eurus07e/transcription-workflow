@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:02,360
+So how did this happen?
+
+2
+00:00:02,360 --> 00:00:07,040
+Why am I sitting in front of a computer in a white mass
+
+3
+00:00:07,040 --> 00:00:10,720
+trying to be detected by a cheap webcam?
+
+4
+00:00:10,720 --> 00:00:14,600
+Well, when I'm not fighting the coded gaze as a poet of code,
+
+5
+00:00:14,600 --> 00:00:17,840
+I'm a graduate student at the MIT Media Lab.
+
+6
+00:00:17,840 --> 00:00:20,480
+And there I have the opportunity to work
+
+7
+00:00:20,480 --> 00:00:22,840
+on all sorts of whimsical projects,
+
+8
+00:00:22,840 --> 00:00:26,080
+including the Aspire Mirror, a project I did
+
+9
+00:00:26,080 --> 00:00:29,920
+so I could project digital masks onto my reflection
+
+10
+00:00:29,920 --> 00:00:32,240
+so in the morning, if I wanted to feel powerful,
+
+11
+00:00:32,240 --> 00:00:33,760
+I could put on a lion.
+
+12
+00:00:33,760 --> 00:00:37,320
+If I wanted to be uplifted, I might have a quote.
+
+13
+00:00:37,320 --> 00:00:40,320
+So I used generic facial recognition software
+
+14
+00:00:40,320 --> 00:00:43,440
+to build the system, but found that it was really hard
+
+15
+00:00:43,440 --> 00:00:47,840
+to test it unless if I wore a white mask.
+
+16
+00:00:47,840 --> 00:00:52,200
+Unfortunately, I've run into this issue before.
+
+17
+00:00:52,200 --> 00:00:55,160
+When I was an undergraduate at Georgia Tech studying
+
+18
+00:00:55,160 --> 00:00:58,640
+computer science, I used to work on social robots.
+
+19
+00:00:58,640 --> 00:01:02,360
+And one of my tasks was to get a robot to play peek-a-boo,
+
+20
+00:01:02,360 --> 00:01:06,040
+a simple turn-taking game where partners covered their face
+
+21
+00:01:06,040 --> 00:01:08,480
+and then uncover it saying peek-a-boo.
+
+22
+00:01:08,480 --> 00:01:11,360
+The problem is peek-a-boo doesn't really work
+
+23
+00:01:11,360 --> 00:01:15,400
+if I can't see you, and my robot couldn't see me.
+
+24
+00:01:15,400 --> 00:01:19,440
+But I barred my roommate's face to get the project done,
+
+25
+00:01:19,440 --> 00:01:21,960
+submitted the assignment, and figured, you know what?
+
+26
+00:01:21,960 --> 00:01:25,240
+Somebody else will solve this problem.
+
+27
+00:01:25,240 --> 00:01:28,480
+Not too long after, I was in Hong Kong
+
+28
+00:01:28,480 --> 00:01:31,920
+for an entrepreneurship competition.
+
+29
+00:01:31,920 --> 00:01:34,640
+The organizers decided to take participants
+
+30
+00:01:34,640 --> 00:01:36,960
+on a tour of local startups.
+
+31
+00:01:36,960 --> 00:01:39,720
+One of the startups had a social robot,
+
+32
+00:01:39,720 --> 00:01:41,680
+and they decided to do a demo.
+
+33
+00:01:41,680 --> 00:01:44,640
+The demo worked on everybody until it got to me,
+
+34
+00:01:44,640 --> 00:01:46,680
+and you can probably guess it.
+
+35
+00:01:46,680 --> 00:01:49,640
+It couldn't detect my face.
+
+36
+00:01:49,640 --> 00:01:52,040
+I asked the developers what was going on,
+
+37
+00:01:52,040 --> 00:01:55,640
+and it turned out we had used the same generic facial
+
+38
+00:01:55,640 --> 00:01:57,720
+recognition software.
+
+39
+00:01:57,720 --> 00:01:59,720
+Halfway around the world, I learned
+
+40
+00:01:59,720 --> 00:02:03,280
+that algorithmic bias can travel as quickly
+
+41
+00:02:03,280 --> 00:02:07,400
+as it takes to download some files off of the internet.
+

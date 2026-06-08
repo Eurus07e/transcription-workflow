@@ -1,0 +1,78 @@
+So what if there were not only an internet of information,
+what if there were an internet of value?
+Some kind of vast, global, distributed ledger
+running on millions of computers and available to everybody,
+and where every kind of asset, from money to music,
+could be stored, moved, transacted, exchanged and managed,
+all without powerful intermediaries.
+What if there were a native medium for value?
+Well, in 2008, the financial industry crashed,
+and perhaps propitiously, an anonymous person or persons
+named Satoshi Nakamoto created a paper
+where he developed a protocol for a digital cash that
+used an underlying cryptocurrency called Bitcoin.
+And this cryptocurrency enabled people to establish trust
+and do transactions without a third party.
+And the seemingly simple act set off
+a spark that's ignited the world, that
+has everyone excited or terrified or otherwise
+interested in many places.
+Now don't be confused about Bitcoin.
+Bitcoin is an asset.
+It goes up and down.
+And that should be of interest to you if you're a speculator.
+More broadly, it's a cryptocurrency.
+It's not a fiat currency controlled by a nation's state.
+And that's of greater interest.
+But the real pony here is the underlying technology.
+It's called blockchain.
+So for the first time now in human history,
+people everywhere can trust each other and transact,
+peer to peer.
+And trust is established not by some big institution,
+but by collaboration, by cryptography,
+and by some clever code.
+And because trust is native to the technology,
+I call this the trust protocol.
+Now you're probably wondering, well,
+how does this thing work?
+Fair enough.
+Assets, digital assets like money to music and everything
+in between, are not stored in a central place.
+But they're distributed across a global ledger
+using the highest level of cryptography.
+And when a transaction is conducted,
+it's posted globally across millions and millions
+of computers.
+And out there around the world is a group
+of people called miners.
+These are not young people.
+They're Bitcoin miners.
+And they have massive computing power at their fingertips,
+10 to 100 times bigger than all of Google worldwide.
+And these miners do a lot of work.
+And every 10 minutes, kind of like the heartbeat
+of a network, a block gets created
+that has all the transactions from the previous 10 minutes.
+And then the miners get to work trying
+to solve some tough problems.
+And they compete.
+And the first miner to find out the truth
+and to validate the block is rewarded in digital currency,
+in the case of the Bitcoin blockchain with Bitcoin.
+And then, this is the key part, that block
+is linked to the previous block and the previous block
+to create a chain of blocks.
+And everyone is time stamped, kind of like
+with a digital wax seal.
+So if I wanted to go in and hack a block
+and say, pay you and you with the same money,
+I'd have to hack that block, plus all the preceding
+blocks, the entire history of commerce on that blockchain,
+not just on one computer, but across millions of computers,
+simultaneously, all using the highest levels of encryption
+in the light of the most powerful computing
+resource in the world that's watching me, tough to do.
+And this is infinitely more secure than the computer
+systems that we have today.
+Blockchain, that's how it works.

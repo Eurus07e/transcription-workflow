@@ -1,0 +1,35 @@
+start	end	text
+0	2760	and they'll have some difficult decisions to make.
+2760	7440	It's tempting to offer up general decision-making principles like minimize harm,
+7440	11240	but even that quickly leads to morally murky decisions.
+11240	14160	For example, let's say we have the same initial setup,
+14160	17360	but now there's a motorcyclist wearing a helmet to your left
+17360	20040	and another one without a helmet to your right.
+20040	23280	Which one should your robot car crash into?
+23280	27240	If you say the biker with the helmet because she's more likely to survive,
+27320	30280	then aren't you penalizing the responsible motorist?
+30280	34920	If instead you say the biker without the helmet because he's acting irresponsibly,
+34920	39640	then you've gone way beyond the initial design principle about minimizing harm,
+39640	44160	and the robot car is now meeting out street justice.
+44160	47120	The ethical considerations get more complicated here.
+47120	53080	In both of our scenarios, the underlying design is functioning as a targeting algorithm of sorts.
+53080	56720	In other words, it's systematically favoring or discriminating
+56720	60520	against a certain type of object to crash into.
+60520	65600	And the owners of the target vehicles will suffer the negative consequences of this algorithm
+65600	67760	through no fault of their own.
+67760	72040	Our new technologies are opening up many other novel ethical dilemmas.
+72040	78360	For instance, if you had to choose between a car that would always save as many lives as possible in an accident,
+78360	82720	or one that would save you at any cost, which would you buy?
+82720	87560	What happens if the cars start analyzing and factoring in the passengers of the cars
+87560	89880	and the particulars of their lives?
+89880	94840	Could it be the case that a random decision is still better than a predetermined one
+94840	96920	designed to minimize harm?
+96920	99560	And who should be making all of these decisions anyhow?
+99560	100480	Programmers?
+100480	101400	Companies?
+101400	102800	Governments?
+102800	107760	Reality may not play out exactly like our thought experiments, but that's not the point.
+107760	112360	They're designed to isolate and stress test our intuitions on ethics,
+112360	115880	just like science experiments do for the physical world.
+115880	122600	Spotting these moral hairpin turns now will help us maneuver the unfamiliar road of technology ethics
+122600	128640	and allow us to cruise confidently and conscientiously into our brave new future.

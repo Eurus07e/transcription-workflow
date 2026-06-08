@@ -1,0 +1,41 @@
+It's called the blockchain.
+Blockchain.
+Now it's not the most sonorous word in the world,
+but I believe that this is now the next generation of the internet,
+and that it holds vast promise for every business, every society,
+and for all of you individually.
+You know, for the past few decades we've had the internet of information,
+and when I send you an email or a PowerPoint file or something,
+I'm actually not sending you the original.
+I'm sending you a copy, and that's great.
+This is democratized information.
+But when it comes to assets, things like money,
+financial assets like stocks and bonds, loyalty points,
+intellectual property, music, art, a vote, carbon credit, and other assets,
+sending you a copy is a really bad idea.
+If I send you $100, it's really important that I don't still have money
+and that I can't send it to you.
+So this has been called the double-spend problem by cryptographers for a long time.
+So today we rely entirely on big intermediaries, middlemen like banks,
+governments, big social media companies, credit card companies, and so on,
+to establish trust in our economy.
+And these intermediaries perform all the business and transaction logic
+of every kind of commerce, from authentication, identification of people
+through to clearing, settling, and record-keeping.
+And overall they do a pretty good job, but there are growing problems.
+To begin, they're centralized.
+That means that they can be hacked and increasingly are.
+And J.P. Morgan, U.S. Federal Government, LinkedIn, Home Depot,
+and others found that out the hard way.
+They exclude billions of people from the global economy.
+For example, people who don't have enough money to have a bank account.
+They slow things down.
+It can take a second for an email to go around the world,
+but it can take days or weeks for money to move through the banking system
+across the city, and they take a big piece of the action, 10% to 20%,
+just to send money to another country.
+They capture our data, and that means that we can't monetize it or use it
+to better manage our lives, and our privacy is being undermined.
+And the biggest problem is that overall they've appropriated the largess
+of the digital age asymmetrically.
+And we have wealth creation, but we have growing social inequality.

@@ -1,0 +1,34 @@
+start	end	text
+0	2580	This is a thought experiment.
+2600	5580	Let's say at some point in the not-so-distant future
+5600	8980	you're barreling down the highway in your self-driving car,
+9000	12980	and you find yourself boxed in on all sides by other cars.
+13000	17580	Suddenly, a large, heavy object falls off the truck in front of you.
+17600	20980	Your car can't stop in time to avoid the collision,
+21000	22980	so it needs to make a decision.
+23000	25260	Go straight and hit the object,
+25260	27760	swerve left into an SUV,
+27780	30760	or swerve right into a motorcycle.
+30780	34240	Should it prioritize your safety by hitting the motorcycle?
+34260	37240	Minimize danger to others by not swerving,
+37260	41240	even if it means hitting the large object and sacrificing your life.
+41260	44240	Or take the middle ground by hitting the SUV,
+44260	46240	which has a high passenger safety rating.
+46260	49240	So what should the self-driving car do?
+49260	53240	If we were driving that boxed-in car in manual mode,
+53240	57220	whichever way we'd react would be understood as just that,
+57240	60220	a reaction, not a deliberate decision.
+60240	64220	It would be an instinctual panicked move with no forethought or malice.
+64240	68220	But if a programmer were to instruct the car to make the same move,
+68240	71220	given conditions it may sense in the future,
+71240	75220	well, that looks more like premeditated homicide.
+75240	78220	Now, to be fair, self-driving cars are predicted
+78240	81220	to dramatically reduce traffic accidents and fatalities
+81220	84200	by removing human error from the driving equation.
+84220	87200	Plus, there may be all sorts of other benefits—
+87220	90200	eased road congestion, decreased harmful emissions,
+90220	94200	and minimized unproductive and stressful driving time.
+94220	97200	But accidents can and will still happen,
+97220	98200	and when they do,
+98220	102200	their outcomes may be determined months or years in advance
+102220	105200	by programmers or policymakers.

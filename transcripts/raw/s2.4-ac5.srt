@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:03,200
+So what's going on? Why isn't my face being detected?
+
+2
+00:00:03,200 --> 00:00:06,600
+Well, we have to look at how we give machine sight.
+
+3
+00:00:06,600 --> 00:00:12,000
+Computer vision uses machine learning techniques to do facial recognition.
+
+4
+00:00:12,000 --> 00:00:15,800
+So how this works is you create a training set with examples of faces.
+
+5
+00:00:15,800 --> 00:00:18,600
+This is a face, this is a face, this is not a face.
+
+6
+00:00:18,600 --> 00:00:23,200
+And over time, you can teach a computer how to recognize other faces.
+
+7
+00:00:23,200 --> 00:00:27,200
+However, if the training sets aren't really that diverse,
+
+8
+00:00:27,400 --> 00:00:32,400
+any face that deviates too much from the established norm will be harder to detect,
+
+9
+00:00:32,400 --> 00:00:34,400
+which is what was happening to me.
+
+10
+00:00:34,400 --> 00:00:36,800
+But don't worry, there's some good news.
+
+11
+00:00:36,800 --> 00:00:39,600
+Training sets don't just materialize out of nowhere.
+
+12
+00:00:39,600 --> 00:00:41,400
+We actually can create them.
+
+13
+00:00:41,400 --> 00:00:45,700
+So there's an opportunity to create full spectrum training sets
+
+14
+00:00:45,700 --> 00:00:49,500
+that reflect a richer portrait of humanity.
+
+15
+00:00:49,500 --> 00:00:51,700
+Now, you've seen it in my examples,
+
+16
+00:00:51,700 --> 00:00:58,100
+how social robots was how I found out about exclusion with algorithmic bias.
+
+17
+00:00:58,100 --> 00:01:02,600
+But algorithmic bias can also lead to discriminatory practices.
+
+18
+00:01:03,900 --> 00:01:07,600
+Across the US, police departments are starting to use
+
+19
+00:01:07,600 --> 00:01:11,700
+facial recognition software in their crime-fighting arsenal.
+
+20
+00:01:12,100 --> 00:01:17,600
+Georgetown Law published a report showing that one in two adults in the US,
+
+21
+00:01:17,600 --> 00:01:24,500
+that's 117 million people, have their faces in facial recognition networks.
+
+22
+00:01:24,500 --> 00:01:29,100
+Police departments can currently look at these networks unregulated
+
+23
+00:01:29,100 --> 00:01:33,400
+using algorithms that have not been audited for accuracy.
+
+24
+00:01:33,400 --> 00:01:37,300
+Yet we know facial recognition is not felt proof
+
+25
+00:01:37,300 --> 00:01:41,500
+and labeling faces consistently remains a challenge.
+
+26
+00:01:41,500 --> 00:01:43,100
+You might have seen this on Facebook.
+
+27
+00:01:43,100 --> 00:01:46,300
+My friends and I laugh all the time when we see other people
+
+28
+00:01:46,300 --> 00:01:48,800
+mislabeled in our photos.
+
+29
+00:01:48,800 --> 00:01:54,400
+But misidentifying a suspected criminal is no laughing matter,
+
+30
+00:01:54,400 --> 00:01:57,300
+nor is breaching civil liberties.
+
+31
+00:01:57,300 --> 00:02:00,500
+Machine learning is being used for facial recognition,
+
+32
+00:02:00,500 --> 00:02:04,900
+but it's also extending beyond the realm of computer vision.
+
+33
+00:02:05,800 --> 00:02:09,800
+In her book, Weapons of Math Destruction,
+
+34
+00:02:09,800 --> 00:02:16,500
+Data Scientist, Kathy O'Neill talks about the rising new WMDs.
+
+35
+00:02:16,500 --> 00:02:20,900
+Widespread, mysterious and destructive algorithms
+
+36
+00:02:20,900 --> 00:02:23,900
+that are increasingly being used to make decisions
+
+37
+00:02:23,900 --> 00:02:27,100
+that impact more aspects of our lives.
+
+38
+00:02:27,100 --> 00:02:28,900
+So who gets hired or fired?
+
+39
+00:02:28,900 --> 00:02:29,800
+Do you get that loan?
+
+40
+00:02:29,800 --> 00:02:30,800
+Do you get insurance?
+
+41
+00:02:30,800 --> 00:02:34,600
+Are you admitted into the college that you wanted to get into?
+
+42
+00:02:34,600 --> 00:02:38,200
+Do you and I pay the same price for the same product
+
+43
+00:02:38,200 --> 00:02:40,700
+purchased on the same platform?
+
+44
+00:02:40,700 --> 00:02:44,400
+Law enforcement is also starting to use machine learning
+
+45
+00:02:44,400 --> 00:02:46,700
+for predictive policing.
+
+46
+00:02:46,700 --> 00:02:49,700
+Some judges use machine-generated risk scores
+
+47
+00:02:49,700 --> 00:02:54,700
+to determine how long an individual is going to spend in prison.
+
+48
+00:02:54,700 --> 00:02:57,200
+So we really have to think about these decisions.
+
+49
+00:02:57,200 --> 00:02:58,400
+Are they fair?
+
+50
+00:02:58,400 --> 00:03:01,300
+And we've seen that algorithmic bias
+
+51
+00:03:01,300 --> 00:03:04,500
+doesn't necessarily always lead to fair outcomes.
+

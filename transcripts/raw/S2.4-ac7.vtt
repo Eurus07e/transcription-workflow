@@ -1,0 +1,101 @@
+WEBVTT
+
+00:00.000 --> 00:02.580
+This is a thought experiment.
+
+00:02.600 --> 00:05.580
+Let's say at some point in the not-so-distant future
+
+00:05.600 --> 00:08.980
+you're barreling down the highway in your self-driving car,
+
+00:09.000 --> 00:12.980
+and you find yourself boxed in on all sides by other cars.
+
+00:13.000 --> 00:17.580
+Suddenly, a large, heavy object falls off the truck in front of you.
+
+00:17.600 --> 00:20.980
+Your car can't stop in time to avoid the collision,
+
+00:21.000 --> 00:22.980
+so it needs to make a decision.
+
+00:23.000 --> 00:25.260
+Go straight and hit the object,
+
+00:25.260 --> 00:27.760
+swerve left into an SUV,
+
+00:27.780 --> 00:30.760
+or swerve right into a motorcycle.
+
+00:30.780 --> 00:34.240
+Should it prioritize your safety by hitting the motorcycle?
+
+00:34.260 --> 00:37.240
+Minimize danger to others by not swerving,
+
+00:37.260 --> 00:41.240
+even if it means hitting the large object and sacrificing your life.
+
+00:41.260 --> 00:44.240
+Or take the middle ground by hitting the SUV,
+
+00:44.260 --> 00:46.240
+which has a high passenger safety rating.
+
+00:46.260 --> 00:49.240
+So what should the self-driving car do?
+
+00:49.260 --> 00:53.240
+If we were driving that boxed-in car in manual mode,
+
+00:53.240 --> 00:57.220
+whichever way we'd react would be understood as just that,
+
+00:57.240 --> 01:00.220
+a reaction, not a deliberate decision.
+
+01:00.240 --> 01:04.220
+It would be an instinctual panicked move with no forethought or malice.
+
+01:04.240 --> 01:08.220
+But if a programmer were to instruct the car to make the same move,
+
+01:08.240 --> 01:11.220
+given conditions it may sense in the future,
+
+01:11.240 --> 01:15.220
+well, that looks more like premeditated homicide.
+
+01:15.240 --> 01:18.220
+Now, to be fair, self-driving cars are predicted
+
+01:18.240 --> 01:21.220
+to dramatically reduce traffic accidents and fatalities
+
+01:21.220 --> 01:24.200
+by removing human error from the driving equation.
+
+01:24.220 --> 01:27.200
+Plus, there may be all sorts of other benefits—
+
+01:27.220 --> 01:30.200
+eased road congestion, decreased harmful emissions,
+
+01:30.220 --> 01:34.200
+and minimized unproductive and stressful driving time.
+
+01:34.220 --> 01:37.200
+But accidents can and will still happen,
+
+01:37.220 --> 01:38.200
+and when they do,
+
+01:38.220 --> 01:42.200
+their outcomes may be determined months or years in advance
+
+01:42.220 --> 01:45.200
+by programmers or policymakers.
+

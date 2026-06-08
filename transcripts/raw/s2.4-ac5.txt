@@ -1,0 +1,51 @@
+So what's going on? Why isn't my face being detected?
+Well, we have to look at how we give machine sight.
+Computer vision uses machine learning techniques to do facial recognition.
+So how this works is you create a training set with examples of faces.
+This is a face, this is a face, this is not a face.
+And over time, you can teach a computer how to recognize other faces.
+However, if the training sets aren't really that diverse,
+any face that deviates too much from the established norm will be harder to detect,
+which is what was happening to me.
+But don't worry, there's some good news.
+Training sets don't just materialize out of nowhere.
+We actually can create them.
+So there's an opportunity to create full spectrum training sets
+that reflect a richer portrait of humanity.
+Now, you've seen it in my examples,
+how social robots was how I found out about exclusion with algorithmic bias.
+But algorithmic bias can also lead to discriminatory practices.
+Across the US, police departments are starting to use
+facial recognition software in their crime-fighting arsenal.
+Georgetown Law published a report showing that one in two adults in the US,
+that's 117 million people, have their faces in facial recognition networks.
+Police departments can currently look at these networks unregulated
+using algorithms that have not been audited for accuracy.
+Yet we know facial recognition is not felt proof
+and labeling faces consistently remains a challenge.
+You might have seen this on Facebook.
+My friends and I laugh all the time when we see other people
+mislabeled in our photos.
+But misidentifying a suspected criminal is no laughing matter,
+nor is breaching civil liberties.
+Machine learning is being used for facial recognition,
+but it's also extending beyond the realm of computer vision.
+In her book, Weapons of Math Destruction,
+Data Scientist, Kathy O'Neill talks about the rising new WMDs.
+Widespread, mysterious and destructive algorithms
+that are increasingly being used to make decisions
+that impact more aspects of our lives.
+So who gets hired or fired?
+Do you get that loan?
+Do you get insurance?
+Are you admitted into the college that you wanted to get into?
+Do you and I pay the same price for the same product
+purchased on the same platform?
+Law enforcement is also starting to use machine learning
+for predictive policing.
+Some judges use machine-generated risk scores
+to determine how long an individual is going to spend in prison.
+So we really have to think about these decisions.
+Are they fair?
+And we've seen that algorithmic bias
+doesn't necessarily always lead to fair outcomes.

@@ -1,0 +1,84 @@
+AI is being used to help decide whether or not you get that job interview,
+how much you pay for your car insurance,
+how good your credit score is,
+and even what rating you get in your annual performance review.
+But these decisions are all being filtered through its assumptions
+about our identity, our race, our gender, our age.
+How is that happening?
+Now, imagine an AI is helping a hiring manager
+find the next tech leader in the company.
+So far, the manager has been hiring mostly men,
+so the AI learns men are more likely to be programmers than women.
+And it's very shortly from there to men make better programmers than women.
+We have reinforced our own bias into the AI,
+and now it's screening out female candidates.
+Hang on, if a human hiring manager did that, we'd be outraged.
+We wouldn't allow it.
+This kind of gender discrimination is not OK.
+And yet, somehow, AI has become above the law
+because the machine made the decision.
+That's not it.
+We are also reinforcing our bias in how we interact with AI.
+How often do you use a voice assistant like Siri, Alexa or even Cortana?
+They all have two things in common.
+One, they can never get my name right.
+And second, they are all female.
+They're designed to be your obedient servants,
+turning your lights on and off, ordering your shopping.
+You get male AIs too, but they tend to be more high-powered,
+like IBM Watson making business decisions,
+Salesforce Science Team or Ross, the robot lawyer.
+So, poor robots, even they suffer from sexism in the workplace.
+Think about how these two things combine
+and affect a kid growing up in today's world around AI.
+So, they're doing some research for a school project,
+and they Google images of CEO.
+The algorithm shows them results of mostly men.
+And now, they Google personal assistant.
+As you can guess, it shows them mostly females.
+And then, they want to put on some music and maybe order some food.
+And now, they're barking orders at a female voice,
+an obedient female voice assistant.
+Some of our brightest minds are creating this technology today,
+technology that they could have created in any way they wanted.
+And yet, they've chosen to create it in the style of 1950s Mad Men Secretary.
+Yay!
+But okay, don't worry.
+This is not going to end with me telling you
+that we're all heading towards sexist racist machines running the world.
+The good news about AI is that it is entirely within our control.
+We get to teach the right values, the right ethics to AI.
+So, there are three things we can do.
+One, we can be aware of our own biases
+and the bias in machines around us.
+Two, we can make sure there are diverse teams building this technology.
+And three, we have to give it diverse experiences to learn from.
+I can talk about the first two from personal experience.
+When you work in technology and you don't look like a Mark Zuckerberg or Elon Musk,
+your life is a little bit difficult, your ability gets questioned.
+Here's just one example.
+Like most developers, I often join online tech forums
+and share my knowledge to help others.
+And I found when I log on as myself with my own photo, my own name,
+I tend to get questions or comments like this.
+What makes you think you're qualified to talk about AI?
+What makes you think you know about machine learning?
+So, as you do, I made a new profile.
+And this time, instead of my own picture,
+I chose a cat with a jetpack on it.
+And I chose a name that did not reveal my gender.
+You can probably guess where this is going, right?
+So, this time, I didn't get any of those patronizing comments about my ability,
+and I was able to actually get some work done.
+And it sucks, guys.
+I've been building robots since I was 15,
+I have a few degrees in computer science,
+and yet, I had to hide my gender in order for my work to be taken seriously.
+So, what's going on here?
+Are men just better at technology than women?
+Another study found that when women coders on one platform
+hid their gender, like myself,
+their code was accepted 4% more than men.
+So, this is not about the talent.
+This is about an elitism in AI
+that says a programmer needs to look like a certain person.

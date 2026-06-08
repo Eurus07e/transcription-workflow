@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:09,240
+Do you use any navigation application to go through traffic jams?
+
+2
+00:00:09,240 --> 00:00:14,060
+What happens when you scroll down through your social media feed?
+
+3
+00:00:14,060 --> 00:00:20,080
+Do you follow any recommendation that any streaming service might give you?
+
+4
+00:00:20,080 --> 00:00:25,700
+So by the end of the day, we know that AI is there, but do we actually understand what
+
+5
+00:00:25,700 --> 00:00:37,300
+is going on, and can we trust the output of those applications?
+
+6
+00:00:37,300 --> 00:00:43,300
+To date, the approach that we've taken to these kinds of technologies is to say, well,
+
+7
+00:00:43,300 --> 00:00:45,520
+consumers can figure this out on their own.
+
+8
+00:00:45,520 --> 00:00:48,300
+They can read the terms and conditions on websites.
+
+9
+00:00:48,300 --> 00:00:54,100
+They can choose not to participate in certain digital environments, but increasingly, these
+
+10
+00:00:54,100 --> 00:00:57,620
+products and platforms are part of our lives.
+
+11
+00:00:57,620 --> 00:01:00,380
+They are part of the way that we provide education.
+
+12
+00:01:00,380 --> 00:01:03,380
+They are part of the way that we look for jobs.
+
+13
+00:01:03,380 --> 00:01:11,340
+And that power imbalance cannot be addressed by simply giving consumers more information
+
+14
+00:01:11,340 --> 00:01:14,900
+or giving them individual rights of complaint.
+
+15
+00:01:14,900 --> 00:01:20,580
+What we're ultimately going to have to do if we're going to change the kind of structural
+
+16
+00:01:20,580 --> 00:01:27,780
+ways in which these technologies are designed is to push the responsibilities back on our
+
+17
+00:01:27,780 --> 00:01:35,980
+designers, back on the organizations who are relying on technologies to change their practices.
+
+18
+00:01:35,980 --> 00:01:40,900
+Technologies like artificial intelligence have the potential to empower people and to
+
+19
+00:01:40,900 --> 00:01:49,000
+broaden their perspectives, or they can widen inequalities and really don't contribute to
+
+20
+00:01:49,000 --> 00:01:51,160
+address our societal challenges.
+
+21
+00:01:51,160 --> 00:01:53,680
+But we cannot blame the technologies.
+
+22
+00:01:53,680 --> 00:01:55,720
+It's not about the technologies.
+
+23
+00:01:55,720 --> 00:02:01,140
+It's about us developing the framework, shaping the rules that will allow these technologies
+
+24
+00:02:01,140 --> 00:02:05,320
+to deliver to what we want them to achieve.
+
+25
+00:02:05,320 --> 00:02:11,880
+And we need to make sure that we embed those very important ethical principles, the protection
+
+26
+00:02:11,880 --> 00:02:21,880
+and promotion of human rights and human dignity that will at the end determine the outcomes.
+
+27
+00:02:21,880 --> 00:02:28,840
+Responsible governance of AI technologies without the buy-in of Big Tech and other companies
+
+28
+00:02:28,840 --> 00:02:30,720
+is impossible.
+
+29
+00:02:30,720 --> 00:02:39,600
+It is necessary for us to find ways in which to explain to them that ethics is not about
+
+30
+00:02:39,600 --> 00:02:42,320
+abstract principles.
+
+31
+00:02:42,320 --> 00:02:43,840
+Ethics should be bottom up.
+
+32
+00:02:43,840 --> 00:02:45,960
+It is a dynamic system.
+
+33
+00:02:45,960 --> 00:02:51,720
+It should enable innovation and in the end lead to trust in products of these companies
+
+34
+00:02:51,720 --> 00:02:58,560
+which would lead to success in terms of whatever their business aims are.
+
+35
+00:02:58,560 --> 00:03:05,320
+We see how ethical debates end up playing an important role in shaping the conversation
+
+36
+00:03:05,320 --> 00:03:09,680
+of AI regulation over the last five years.
+
+37
+00:03:09,680 --> 00:03:22,040
+We saw a plethora of charters, declarations of AI ethical principles.
+
+38
+00:03:22,040 --> 00:03:30,720
+We are seeing right now that those principles are being applied on a very practical basis.
+
+39
+00:03:31,520 --> 00:03:39,520
+A lot of countries in Latin America have already come up with their national strategies on artificial intelligence.
+
+40
+00:03:39,520 --> 00:03:43,000
+But some countries in the region are going a step further.
+
+41
+00:03:43,000 --> 00:03:51,360
+They are actually regulating through hard law some of the principles of artificial intelligence.
+
+42
+00:03:51,360 --> 00:03:55,440
+In the European Union, we're looking at draft AI acts.
+
+43
+00:03:55,440 --> 00:04:02,840
+In the US, Congress is starting to talk in great detail about monopoly power of technology companies.
+
+44
+00:04:02,840 --> 00:04:13,920
+And you can see the wheels turning across the world as countries move from awareness-raising
+
+45
+00:04:13,920 --> 00:04:18,640
+to strategy, to attempts at implementation, attempts at regulation.
+
