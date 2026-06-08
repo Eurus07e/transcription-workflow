@@ -1,6 +1,6 @@
 # Transcription Workflow
 
-[▶ 打开最终中英对照 PDF](transcripts/welearn_theme2_bilingual_reviewed.pdf)
+[▶ See PDF Transcripts ](transcripts/welearn_theme2_bilingual_reviewed.pdf)
 
 这是 nju 大一英语听说课程教材：智汇大学英语听说教程 4 的部分视频转写、中文校对翻译和中英对照 LaTeX/PDF 输出工作流。
 
